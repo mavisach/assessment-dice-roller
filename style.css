@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    background-color: rgb(235, 189, 111);
+    /* align-items: center; */
+    --default-margin: 50px;
+}
+
+main {
+    background-color: blanchedalmond;
+    /* display: flex; */
+    margin: auto;
+}
